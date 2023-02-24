@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/Allcomponent/footer.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/signup.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/moveview.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/Allcomponent/navbar.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/dao/Userdao.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/admin.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/dao/Jobdao.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Addpost.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Login.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/entity/User.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Delete.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/Allcomponent/allcss.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Logout.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/viewjob.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/addjob.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/DBConnection/DBConnection.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/editprofile.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/home.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/Allcomponent/style.css</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/entity/Jobs.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/oneview.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Update.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/login.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/Editjobs.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Updateprofile.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/web/index.jsp</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/DBConnection/DBProperties.java</file>
+            <file>file:/C:/Users/nayan/Documents/NetBeansProjects/JobPortal/src/java/com/servlet/Register.java</file>
+        </group>
+    </open-files>
+</project-private>
